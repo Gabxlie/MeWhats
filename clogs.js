@@ -42,7 +42,7 @@
             ]
         },
         {
-            "version": "8.0",
+            "version": "9.0",
             "package": "com.mewhatsapp",
             "status": "update_title",
             "title": "MeWhatsApp+ v7.0",
