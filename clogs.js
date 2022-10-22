@@ -1,7 +1,7 @@
 {
     "packages": [
         {   
-            "version": "8.0",
+            "version": "9.0",
             "package": "com.whatsapp",
             "status": "update_title",
             "title": "MeWhatsApp+ 7.0",
