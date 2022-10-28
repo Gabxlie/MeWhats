@@ -81,12 +81,8 @@
 					"changelog": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-pt.html"
 				}
             ]
-        }
-    ]
-},
-{
-    "packages": [
-        {   
+        },
+{   
             "version": "7.1",
             "package": "com.instagram.android",
             "status": "update_title",
@@ -107,5 +103,8 @@
 				}
 			 
             ]
-        },
+        }
+    ]
+},
+
 
