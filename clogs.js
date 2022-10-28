@@ -42,10 +42,10 @@
             ]
         },
         {
-            "version": "7.0",
+            "version": "7.1",
             "package": "com.mewhatsapp",
             "status": "update_title",
-            "title": "MeWhatsApp+ v7.0",
+            "title": "MeWhatsApp+ v7.1",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/tips.html",
             "download": "https://mewhatsapp-plus.blogspot.com/2022/09/mewhatsapp-v60.html?m=1",
