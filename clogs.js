@@ -86,7 +86,7 @@
             "version": "1.0",
             "package": "com.instagram.android",
             "status": "update_title",
-            "title": "InstaMe+ 1.0",
+            "title": "InstaMe+ 2.0",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-en-insta.html",
             "download": "https://mewhatsapp-plus.blogspot.com/2022/10/instame-v10.html?m=1",
