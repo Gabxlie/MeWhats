@@ -88,18 +88,18 @@
             "status": "update_title",
             "title": "InstaMe+ 1.0",
             "note": "false",
-            "msgtxt": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-es.html",
-            "download": "https://mewhatsapp-plus.blogspot.com/2022/09/mewhatsapp-v60.html?m=1",
+            "msgtxt": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-en-insta.html",
+            "download": "https://mewhatsapp-plus.blogspot.com/2022/10/instame-v10.html?m=1",
             "update": [
              		{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-en-insta.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/light/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/light/changelog-en-insta.html"
 				}
 			 
             ]
