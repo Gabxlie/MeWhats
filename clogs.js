@@ -83,7 +83,7 @@
             ]
         },
 {   
-            "version": "1.0",
+            "version": "2.0",
             "package": "com.instagram.android",
             "status": "update_title",
             "title": "InstaMe+ 2.0",
