@@ -1,10 +1,10 @@
 {
     "packages": [
         {   
-            "version": "7.1",
+            "version": "7.2",
             "package": "com.whatsapp",
             "status": "update_title",
-            "title": "MeWhatsApp+ 7.1",
+            "title": "MeWhatsApp+ 7.2",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/Gabxlie/MeWhats/main/MeWhatsApp/dark/changelog-es.html",
             "download": "https://mewhatsapp-plus.blogspot.com/2022/09/mewhatsapp-v60.html?m=1",
@@ -42,10 +42,10 @@
             ]
         },
         {
-            "version": "7.1",
+            "version": "7.2",
             "package": "com.mewhatsapp",
             "status": "update_title",
-            "title": "MeWhatsApp+ v7.1",
+            "title": "MeWhatsApp+ v7.2",
             "note": "false",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/up_system/main/business/tips.html",
             "download": "https://mewhatsapp-plus.blogspot.com/2022/09/mewhatsapp-v60.html?m=1",
